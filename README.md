@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Wenjiao</h1>
-<h3 align="center">I'm a Data Science student at the University of Sheffield</h3>
+<h1 align="center">Hello 👋, I'm lwj</h1>
+<h3 align="center">I'm a Data Science student</h3>
 
 - 🔭 I’m currently working on **projects in the courses**
 
