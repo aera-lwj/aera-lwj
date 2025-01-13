@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **My personal email address is: aeliuwan@gmail.com**
+- 📫 How to reach me **personal email address: aeliuwan@gmail.com**
 
 - ⚡ Fun fact **I love listening to music**
 
